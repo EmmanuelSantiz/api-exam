@@ -1,4 +1,6 @@
 # api-exam
+**Nota: Tener instalado NODEJS**
+
 1.- Descargar o clonar repositorio.
 
 2.- Importar base de datos mysql, que se encuentra en raiz del proyecto con nombre: Dump20200923.sql
