@@ -1,6 +1,8 @@
 # api-exam
 1.- Descargar o clonar repositorio.
 
-2.- Instalar base de datos que se encuentra en raiz del proyecto con nombre: Dump20200923.sql
+2.- Importar base de datos mysql, que se encuentra en raiz del proyecto con nombre: Dump20200923.sql
 
-3.- Script de inicio: node app.js
+3.- En el archivo conf.js (en raiz del proyecto) agregar credenciales para base de datos.
+
+4.- Script de inicio: node app.js
